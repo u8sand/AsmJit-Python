@@ -10,3 +10,4 @@ obj/*
 *.pyc
 *.so
 *.o
+.python-version
